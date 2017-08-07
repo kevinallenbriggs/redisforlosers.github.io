@@ -39,7 +39,7 @@ Jan 2003 – Jan 2009
 	- Worked as par t of a team  to administer over  50 Cisco Internet Operati ng System routers and switches in both LAN and WA N environments r es ulting in 20 less Ti er III s upport requests  over the cours e of a year. 
 	- Troubles hot various networ k is sues i ncl uding the configurations of  TCP/IP, Spanning Tree Protocol, Virtual Local  Area Networ k Tr unki ng Protocol and Active Dir ector y w hich m aintained a consistent up -time of 93%. 
 
-## Education / Technologies I'm Excited About
+## Education / Ongoing Education / Technologies I'm Excited About
 - Working towards  a Bachelor’s in Information Technology from Am eri can Public U niversity (online, currently not attending classes).  
 - Docker
 - Laravel PHP Framework for Web Artisans
