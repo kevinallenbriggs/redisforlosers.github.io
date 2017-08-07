@@ -11,11 +11,19 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 
 	while ($opportunity->available()) {
 		++$excitement;
-		foreach ($question) {
-			return $answer;
+		foreach ($insightful_question) {
+			replyWith($honest_answer);
+		}
 	}
-	
+
 	$new_job->accept();
+	
+	return [  
+		'me' => 'happy',  
+		'psaudio' => 'happy',  
+		'customers' => 'happy',  
+		'my dog' => 'wants to play fetch'
+	];
 }
 ```
 
