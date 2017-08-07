@@ -1,7 +1,8 @@
 # Kevin Briggs
 324 Park St. Fort Collins, CO 80521  
 337-277-0907  
-redisforlosers@gmail.com (I know...)
+redisforlosers@gmail.com
+[https://github.com/redisforlosers](https://github.com/redisforlosers)
 
 ## Objective
 Let's see if I can do this part in PHP!
@@ -37,39 +38,53 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 - Proven comm unication and m anagem ent s kills as a Sergeant in the Uni ted States  Arm y. 
 
 ## Experience
-- System A dmin/C ustom er Support Specialist , Firefly Digital, Inc. – Lafayette, LA  
-Jun 2014 – Pres ent  
-	- Provided support to clients through phone and email i n a cal m and effective manner  r esulti ng  in increas ed revenue and client retention.  
-	- Initiated s everal inter nal reviews  of r esour ce allocations and administrative process es in or der  to eval uate effectiveness  leading to an annual s avi ngs of over   $4,000.
+- *System Administrator/Computer Support Specialist/IT Guy*, Loveland Public Library – Loveland, CO  
+Jun 2015 – Present 
+	- Provided support to clients through phone and email in a calm and effective manner resulting in increased client retention and satisfaction.  
+	- Initiated several internal reviews  of resource allocations and administrative processes in order to evaluate effectiveness leading to an annual savi ngs of over $4,000.
+	- Responsible for the administration of 10-15 Red Hat Enterprise Linux servers.
+	- 
 
-- Manage r, KJ B C our t Services, LLC. - Lafayette, LA  
+- *System Administrator/Customer Support Specialist*, Firefly Digital, Inc. – Lafayette, LA  
+Jun 2014 – Jun 2015  
+	- Provided support to clients through phone and email in a calm and effective manner resulting in increased client retention and satisfaction.  
+	- Initiated several internal reviews  of resource allocations and administrative processes in order to evaluate effectiveness leading to an annual savi ngs of over $4,000.
+	- Responsible for the administration of 10-15 Red Hat Enterprise Linux servers.
+
+- *Manager*, KJB Court Services, LLC. - Lafayette, LA  
 Jun 2011 - May 2014  
-	- Worked up from an entr y-level position to managi ng 15 em ployees by taki ng initiati ve to accom plish tasks  and establish new protocols r esulti ng in i ncreas ed r evenue and retention of both em ployees and clients.
-	- Worked closely w ith developer  to design, im plem ent and test proprietar y criminal  background check software for the i nternal use of the company. 
+	- Worked up from an entry-level position to managing 15 employees by taking initiative to accomplish tasks and establish new protocols. This resulted in increased revenue as well as increased retention of employees and clients, something the company was struggling with.
+	- Worked closely with a software developer to design, implement and test proprietary criminal background check software for the internal use of the company. 
 
-- Se rver/Bartender, Village Cafe / Rom acelli Bistro / Zea Rotisserie and Grill  - Lafayette, LA  
+- *Server/Bartender*, Village Cafe / Romacelli Bistro / Zea Rotisserie and Grill  - Lafayette, LA  
 Sep 2009 – Dec 2011  
-	- Rom acelli Employee of the Year 2011.
+	- Romacelli Employee of the Year 2011.
 
-- Temporary As sociate, E xpr ess Professionals - Fort C ollins, CO  
+- *Temporary Associate*, Express Professionals - Fort Collins, CO  
 Feb 2009 – Aug 2009  
-	- Worked as par t of Hewlett-Packard's  North Ameri ca Support team for HP ProC urve networ king equipm ent.  
+	- Worked as part of Hewlett-Packard's North America Support team for HP ProCurve networking equipment.  
 
-- Senior  Inf ormati on  Syste ms Technicia n,U.S. Army – Various Locations  
+- *Senior Information  Systems Technician*, U.S. Army – Various Locations  
 Jan 2003 – Jan 2009  
-	- Repaired over  250 Department of Defens e i nformation s ystems incr easi ng team  producti vity by  40%.
-	- Planned and impl emented a rotating s er vice schedule for LA N equipm ent reducing hardwar e r elated network failures  by  approxim ately  33%.
-	- Worked as par t of a team  to administer over  50 Cisco Internet Operati ng System routers and switches in both LAN and WA N environments r es ulting in 20 less Ti er III s upport requests  over the cours e of a year. 
-	- Troubles hot various networ k is sues i ncl uding the configurations of  TCP/IP, Spanning Tree Protocol, Virtual Local  Area Networ k Tr unki ng Protocol and Active Dir ector y w hich m aintained a consistent up -time of 93%. 
+	- Repaired over 250 Department of Defense information systems increasing team productivity by 40%.
+	- Planned and implemented a rotating service schedule for LAN equipment reducing hardware related network failures by approximately 33%.
+	- Worked as part of a team to administer over 50 Cisco Internet Operating System routers and switches in both LAN and WAN environments resulting in 20 less Tier III support requests over the course of a year. 
+	- Troubleshot various network issues including the configurations of TCP/IP, Spanning Tree Protocol, Virtual Local Area Network Trunking Protocol and Active Directory which maintained a consistent up-time of 93%. 
 
-## Education, Ongoing Education & Technologies I'm Excited About
-- Working towards  a Bachelor’s in Information Technology from Am eri can Public U niversity (online, currently not attending classes).  
-- Docker
-- Laravel PHP Framework for Web Artisans
+## Education, Lifelong Learning & Technologies I'm Excited About
+I'm a firm believer in lifelong learning and am constantly trying to expand my technical and conceptual abilities. I see new techonolgies and ideas as a way to expand my skill sets and not as threats to them.
 
-## Hobbies, Talents & Things I Want to Brag About
-- Guitar
-- Mushroom Risotto
-- Dogs
+- Working towards a Bachelor’s in Information Technology/Web Development from American Public University (online, currently enrolled but not attending classes).  
+- [Docker](https://www.docker.com) - I am currently using Docker to create all of my development environments. It's so cool that a file in version control can set up the entire environment which will run the app!
+- [Laravel](https://laravel.com/) - An amazing PHP framework which makes coding web applications fun, intuitive and _way_ easier to maintain!
+- [Alpine Linux](https://alpinelinux.org/about/)
+- Raspberry Pi/Arduino - I've got a couple fun projects under my belt and ideas for more! They're like toys for adults.
+
+## Hobbies, Talents, Volunteer Work & Things I Want to Brag About
+- Volunteer Thursday evenings at [Code for Fort Collins](http://codeforfoco.org), a non-profit community-based software development organization.
+- I've been jammin on my guitar since I was 11.
+- I make a great mushroom risotto.
+- I have two dogs:
+	-![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
 
 
