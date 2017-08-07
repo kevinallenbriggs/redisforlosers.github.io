@@ -4,6 +4,7 @@
 redisforlosers@gmail.com (I know...)
 
 ## Objective
+Let's see if I can do this part in PHP!
 ```php
 if ($current_job < $challenging || $frustration > $satisfaction) {
 
@@ -17,7 +18,7 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 	}
 
 	$new_job->accept();
-	
+
 	return [  
 		'me' => 'happy',  
 		'psaudio' => 'happy',  
