@@ -1,7 +1,7 @@
 # Kevin Briggs
 324 Park St. Fort Collins, CO 80521  
 337-277-0907  
-redisforlosers@gmail.com
+redisforlosers@gmail.com  
 [https://github.com/redisforlosers](https://github.com/redisforlosers)
 
 ## Objective
