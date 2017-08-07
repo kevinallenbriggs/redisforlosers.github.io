@@ -7,7 +7,7 @@ redisforlosers@gmail.com
 ## Objective
 Let's see if I can do this part in PHP!
 ```php
-if ($current_job < $challenging || $frustration > $satisfaction) {
+if ($current_job < $challenging || $new_job > $current_job || $frustration > $satisfaction) {
 
 	applyFor($new_job, at($psaudio));
 
@@ -21,10 +21,9 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 	$new_job->accept();
 
 	return [  
-		'me' => 'happy',  
-		'psaudio' => 'happy',  
-		'customers' => 'happy',  
-		'my dog' => 'wants to play fetch'
+		'me' => 'happy',
+		'psaudio' => 'happy',
+		'my dog' => 'wants to play fetch'	// always
 	];
 }
 ```
@@ -42,12 +41,13 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 ## Experience
 - **System Administrator/Computer Support Specialist/IT Guy**, Loveland Public Library – Loveland, CO  
 *Jun 2015 – Present* 
-	- Maintain, enhance and troubleshoot a custom-built PHP-based web application used to manage the schedule and timecards of all (about 75) library employees.
+	- Maintain, enhance and troubleshoot a custom-built PHP-based web application used to manage the schedule and timecards of all library employees (about 75).
 	- Develop, deploy and maintain an application which provides all the internal resources needed by staff to manage the library effectively. 
 	- Responsible for the administration of 18 servers, both physical and virtual, running a variety of Windows and Linux operating systems.
 	- Solely charged with the configuration and administration of over 100 patron and staff thin client computers.
 	- Research, select, install, configure and operate Lulzbot TazMini and Taz5 3D printers.
 	- Film and broadcast live recordings of the City of Loveland Planning Commission and City Council meetings using HD broadcast-quality audio and visual equipment.
+	- City of Loveland Employee of the Year 2016 and nominated for the same award in 2015.
 
 - **System Administrator/Customer Support Specialist**, Firefly Digital, Inc. – Lafayette, LA  
 *Jun 2014 – Jun 2015*  
