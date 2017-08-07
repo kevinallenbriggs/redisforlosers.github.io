@@ -44,7 +44,7 @@ Jan 2003 – Jan 2009
 - Docker
 - Laravel PHP Framework for Web Artisans
 
-## Hobbies, Talents and Other Personal Things I Think Are Worth Bragging About
+## Hobbies / Talents / Things I Want to Brag About
 - Guitar
 - Mushroom Risotto
 - Dogs
