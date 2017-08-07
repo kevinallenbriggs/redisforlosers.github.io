@@ -54,6 +54,7 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 	- Provided support to clients through phone and email in a calm and effective manner resulting in increased client retention and satisfaction.  
 	- Initiated several internal reviews  of resource allocations and administrative processes in order to evaluate effectiveness leading to an annual savi ngs of over $4,000.
 	- Responsible for the administration of 10-15 Red Hat Enterprise Linux servers.
+	- Configured and maintained websites created with both a custom CMS and Wordpress.  This included working with common Wordpress plugins such as WooCommerce, WP Super Cache, Contact Forms 7 and many others.
 
 - **Manager**, KJB Court Services, LLC. - Lafayette, LA  
 *Jun 2011 - May 2014*  
