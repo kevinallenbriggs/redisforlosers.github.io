@@ -86,7 +86,7 @@ I'm a firm believer in lifelong learning and am constantly trying to expand my t
 
 ## Hobbies, Talents, Volunteer Work & Things I Want to Brag About
 - On Thursday evenings I volunteer at [Code for Fort Collins](http://codeforfoco.org), a non-profit community-based software development organization.
-- I've been jammin on my guitar since I was 11.
+- I've been jammin on my guitar since I was 11, with some experience in amateur recording and performances.
 - I make a great mushroom risotto.
 - I have two dogs whom I am very proud of:  
 	![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
