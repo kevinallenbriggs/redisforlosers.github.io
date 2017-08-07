@@ -6,10 +6,15 @@ redisforlosers@gmail.com (I know...)
 ## Objective
 ```php
 if ($current_job < $challenging || $frustration > $satisfaction) {
-	applyFor($new_job->at(psaudio.com));
-	foreach ($question) {
-		return $answer;
+
+	applyFor($new_job, at('http://www.psaudio.com'));
+
+	while ($opportunity->available()) {
+		++$excitement;
+		foreach ($question) {
+			return $answer;
 	}
+	
 	$new_job->accept();
 }
 ```
