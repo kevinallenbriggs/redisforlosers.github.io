@@ -32,8 +32,8 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 ## Summary of Qualifications
 - Solid knowledge of PHP 5/7, HTML5, CSS3 and MySQL 5.6+. 
 - Familiar or better with common frameworks such as Bootstap 3/4, Laravel 5.4, jQuery, CodeIgniter and Ruby on Rails.
-- Experience administering Windows XP/7/10, Red Hat Enterprise Linux 5/6, and Debian Linux operating systems.
-- Seven years experience administering local area networks and systems administration. 
+- Experience administering Windows XP/7/10, Windows Server 2003-2016R2, Red Hat Enterprise Linux 5/6, and Debian-based Linux operating systems.
+- Seven years experience administering local area networks and conducting systems administration. 
 - Empassioned by writing beautiful, easy to understand code.
 - Proven troubleshooting and problem solving skills as the only technical member of the Library Technology & Innovation Department.
 - Able to effectively communicate technical information in non-technical terms. 
@@ -45,9 +45,9 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 	- Maintain, enhance and troubleshoot a custom-built PHP-based web application used to manage the schedule and timecards of all (about 75) library employees.
 	- Develop, deploy and maintain an application which provides all the internal resources needed by staff to manage the library effectively. 
 	- Responsible for the administration of 18 servers, both physical and virtual, running a variety of Windows and Linux operating systems.
-	- Solely charged with the configuratio and administration of over 100 patron and staff thin client computers.
+	- Solely charged with the configuration and administration of over 100 patron and staff thin client computers.
 	- Research, select, install, configure and operate Lulzbot TazMini and Taz5 3D printers.
-	- Film and broadcast live recordings of the City of Loveland Planning Commission meetings using HD broadcast-quality audio and visual equipment.
+	- Film and broadcast live recordings of the City of Loveland Planning Commission and City Council meetings using HD broadcast-quality audio and visual equipment.
 
 - **System Administrator/Customer Support Specialist**, Firefly Digital, Inc. – Lafayette, LA  
 *Jun 2014 – Jun 2015*  
@@ -80,18 +80,18 @@ I'm a firm believer in lifelong learning and am constantly trying to expand my t
 
 - Working towards a Bachelor’s in Information Technology/Web Development from American Public University (online, currently enrolled but not attending classes).  
 - [Docker](https://www.docker.com) - I am currently using Docker to create all of my development environments. It's so cool that a file in version control can set up the entire environment which will run the app!
-- [Laravel](https://laravel.com/) - An amazing PHP framework which makes coding web applications fun, intuitive and _way_ easier to maintain!
+- [Laravel](https://laravel.com/) - An amazing PHP framework which makes coding web applications fun, intuitive and _far_ easier to maintain.
 - [Alpine Linux](https://alpinelinux.org/about/)
 - Raspberry Pi/Arduino - I've got a couple fun projects under my belt and ideas for more! They're like toys for adults.
 
 ## Hobbies, Talents, Volunteer Work & Things I Want to Brag About
-- Volunteer Thursday evenings at [Code for Fort Collins](http://codeforfoco.org), a non-profit community-based software development organization.
+- On Thursday evenings I volunteer at [Code for Fort Collins](http://codeforfoco.org), a non-profit community-based software development organization.
 - I've been jammin on my guitar since I was 11.
 - I make a great mushroom risotto.
-- I have two dogs:
-	-![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
+- I have two dogs whom I am very proud of:
+	![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
 
 
-\*Referencees available upon request
+
 
 
