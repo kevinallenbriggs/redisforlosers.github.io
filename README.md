@@ -3,7 +3,16 @@
 337-277-0907  
 redisforlosers@gmail.com (I know...)
 
-> Experienced  inform ation  technology  technician  seeking  a  challenging  long -term   position  as   a  Computer  Support   Technician  with  the  City  of   Lo veland   Library   Servi ces   Departm ent  in  order   to  i ncr eas e   team  producti vity, efficiency and availability of services
+## Objective
+```php
+if ($current_job < $challenging || $frustration > $satisfaction) {
+	applyFor($new_job->at(psaudio.com));
+	foreach ($question) {
+		return $answer;
+	}
+	$new_job->accept();
+}
+```
 
 ## Summary of Qualifications
 - Basic working knowledge of PHP5, XHTML/HTML5, C SS3 and MySQL. 
