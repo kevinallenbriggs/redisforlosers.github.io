@@ -30,42 +30,46 @@ if ($current_job < $challenging || $frustration > $satisfaction) {
 ```
 
 ## Summary of Qualifications
-- Basic working knowledge of PHP5, XHTML/HTML5, C SS3 and MySQL. 
-- Experience with Wi ndows  and RedHat Enter prise Li nu x operating systems.
-- Five years  experi ence in local ar ea networks  and s ystems administration. 
-- Extensive customer  service suppor t experience. 
-- Able to effectively comm unicate technical i nformation i n non -technical terms. 
-- Proven comm unication and m anagem ent s kills as a Sergeant in the Uni ted States  Arm y. 
+- Solid knowledge of PHP 5/7, HTML5, CSS3 and MySQL 5.6+. 
+- Familiar or better with common frameworks such as Bootstap 3/4, Laravel 5.4, jQuery, CodeIgniter and Ruby on Rails.
+- Experience administering Windows XP/7/10, Red Hat Enterprise Linux 5/6, and Debian Linux operating systems.
+- Seven years experience administering local area networks and systems administration. 
+- Empassioned by writing beautiful, easy to understand code.
+- Proven troubleshooting and problem solving skills as the only technical member of the Library Technology & Innovation Department.
+- Able to effectively communicate technical information in non-technical terms. 
+- Proven communication, management and judgement skills as a Sergeant in the United States Army. 
 
 ## Experience
-- *System Administrator/Computer Support Specialist/IT Guy*, Loveland Public Library – Loveland, CO  
-Jun 2015 – Present 
+- **System Administrator/Computer Support Specialist/IT Guy**, Loveland Public Library – Loveland, CO  
+*Jun 2015 – Present* 
+	- Maintain, enhance and troubleshoot a custom-built PHP-based web application used to manage the schedule and timecards of all (about 75) library employees.
+	- Develop, deploy and maintain an application which provides all the internal resources needed by staff to manage the library effectively. 
+	- Responsible for the administration of 18 servers, both physical and virtual, running a variety of Windows and Linux operating systems.
+	- Solely charged with the configuratio and administration of over 100 patron and staff thin client computers.
+	- Research, select, install, configure and operate Lulzbot TazMini and Taz5 3D printers.
+	- Film and broadcast live recordings of the City of Loveland Planning Commission meetings using HD broadcast-quality audio and visual equipment.
+
+- **System Administrator/Customer Support Specialist**, Firefly Digital, Inc. – Lafayette, LA  
+*Jun 2014 – Jun 2015*  
 	- Provided support to clients through phone and email in a calm and effective manner resulting in increased client retention and satisfaction.  
 	- Initiated several internal reviews  of resource allocations and administrative processes in order to evaluate effectiveness leading to an annual savi ngs of over $4,000.
 	- Responsible for the administration of 10-15 Red Hat Enterprise Linux servers.
-	- 
 
-- *System Administrator/Customer Support Specialist*, Firefly Digital, Inc. – Lafayette, LA  
-Jun 2014 – Jun 2015  
-	- Provided support to clients through phone and email in a calm and effective manner resulting in increased client retention and satisfaction.  
-	- Initiated several internal reviews  of resource allocations and administrative processes in order to evaluate effectiveness leading to an annual savi ngs of over $4,000.
-	- Responsible for the administration of 10-15 Red Hat Enterprise Linux servers.
-
-- *Manager*, KJB Court Services, LLC. - Lafayette, LA  
-Jun 2011 - May 2014  
+- **Manager**, KJB Court Services, LLC. - Lafayette, LA  
+*Jun 2011 - May 2014*  
 	- Worked up from an entry-level position to managing 15 employees by taking initiative to accomplish tasks and establish new protocols. This resulted in increased revenue as well as increased retention of employees and clients, something the company was struggling with.
 	- Worked closely with a software developer to design, implement and test proprietary criminal background check software for the internal use of the company. 
 
-- *Server/Bartender*, Village Cafe / Romacelli Bistro / Zea Rotisserie and Grill  - Lafayette, LA  
-Sep 2009 – Dec 2011  
+- **Server/Bartender**, Village Cafe / Romacelli Bistro / Zea Rotisserie and Grill  - Lafayette, LA  
+*Sep 2009 – Dec 2011*  
 	- Romacelli Employee of the Year 2011.
 
-- *Temporary Associate*, Express Professionals - Fort Collins, CO  
-Feb 2009 – Aug 2009  
+- **Temporary Associate**, Express Professionals - Fort Collins, CO  
+*Feb 2009 – Aug 2009*  
 	- Worked as part of Hewlett-Packard's North America Support team for HP ProCurve networking equipment.  
 
-- *Senior Information  Systems Technician*, U.S. Army – Various Locations  
-Jan 2003 – Jan 2009  
+- **Senior Information Systems Technician**, U.S. Army – Various Locations  
+*Jan 2003 – Jan 2009*  
 	- Repaired over 250 Department of Defense information systems increasing team productivity by 40%.
 	- Planned and implemented a rotating service schedule for LAN equipment reducing hardware related network failures by approximately 33%.
 	- Worked as part of a team to administer over 50 Cisco Internet Operating System routers and switches in both LAN and WAN environments resulting in 20 less Tier III support requests over the course of a year. 
@@ -86,5 +90,8 @@ I'm a firm believer in lifelong learning and am constantly trying to expand my t
 - I make a great mushroom risotto.
 - I have two dogs:
 	-![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
+
+
+\*Referencees available upon request
 
 
