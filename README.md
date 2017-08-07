@@ -8,9 +8,9 @@ Let's see if I can do this part in PHP!
 ```php
 if ($current_job < $challenging || $frustration > $satisfaction) {
 
-	applyFor($new_job, at('http://www.psaudio.com'));
+	applyFor($new_job, at($psaudio));
 
-	while ($opportunity->available()) {
+	while ($opportunity->available) {
 		++$excitement;
 		foreach ($insightful_question) {
 			replyWith($honest_answer);
