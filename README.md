@@ -89,7 +89,8 @@ I'm a firm believer in lifelong learning and am constantly trying to expand my t
 - I've been jammin on my guitar since I was 11.
 - I make a great mushroom risotto.
 - I have two dogs whom I am very proud of:  
-	![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
+
+![Mayson](http://i.imgur.com/MbSdhxl.png) ![Penny](http://i.imgur.com/WnOr3do.png)
 
 
 
